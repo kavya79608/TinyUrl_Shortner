@@ -1,18 +1,22 @@
-# 🔗 TinyURL Shortener in Python
+# 🔗 TinyURL Shortener | Python Project
 
-A simple Python script to shorten long URLs using the TinyURL API.
+A lightweight Python-based URL shortener that transforms long, clunky links into sleek TinyURLs using the TinyURL API. Ideal for automation scripts, productivity tools, and portfolio showcases.
+
+## 📌 Project Overview
+
+This project demonstrates how to integrate external APIs in Python using the `requests` library. It takes any valid long URL as input and returns a shortened version via TinyURL, making it perfect for sharing links efficiently.
 
 ## 🚀 Features
-- Takes any long URL as input
-- Returns a shortened TinyURL
-- Uses `requests` library for HTTP calls
 
-## 🛠️ How to Run
-1. Install dependencies: `pip install requests`
-2. Run the script: `python main.py`
-3. Enter your long URL and get the shortened version
+- ✅ Accepts any valid long URL  
+- 🔗 Returns a shortened TinyURL instantly  
+- ⚡ Fast and minimalistic script  
+- 🧠 Beginner-friendly code structure  
+- 📦 Uses only one dependency: `requests`
 
-## 📌 Example
+## 🛠️ Installation
 
-## 👩‍💻 Author
-**Kavya Rana**  
+Make sure Python is installed. Then install the required package:
+
+```bash
+pip install requests
